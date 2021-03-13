@@ -11,6 +11,8 @@ import nltk
 from nltk.tokenize import word_tokenize as nltk_word_tokenizer
 from transformers import BertTokenizer, BertConfig
 
+nltk.download('punkt') # tokenizer
+
 ########################  Functions ############################
 
 def hazm_tokenizer(string):
