@@ -10,3 +10,6 @@ Requires:
   - pip install parsivar
   - pip install nltk
   - pip install transformers
+
+You can download our data from this link:
+https://drive.google.com/file/d/16augmEBbL-x4lSeMCNPalsZ8IfGdU3d_/view?usp=sharing
