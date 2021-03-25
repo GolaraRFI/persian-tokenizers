@@ -1,5 +1,5 @@
 # persian-tokenizers
-Compare 4 persian tokenizer
+Compare 4 persian tokenizers:
   1. hazm
   2. parsivar
   3. nltk
