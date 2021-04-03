@@ -6,10 +6,10 @@
   4. transformers
 ***
 ### Requirements
-  - pip install hazm
-  - pip install parsivar
-  - pip install nltk
-  - pip install transformers
+  - hazm
+  - parsivar
+  - nltk
+  - transformers
 
 You can download our data from this link:
 
