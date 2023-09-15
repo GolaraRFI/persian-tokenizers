@@ -1,18 +1,19 @@
-# persian-tokenizers
+# Persian Tokenizers
 
-### Compare 4 persian tokenizers:
+## Compare 4 Persian Tokenizers:
 
-  1. hazm
-  2. parsivar
-  3. nltk
-  4. transformers
+1. hazm
+2. parsivar
+3. nltk
+4. transformers
 
 ### Requirements:
 
-  - hazm
-  - parsivar
-  - nltk
-  - transformers
+- hazm
+- parsivar
+- nltk
+- transformers
+
 ***
 Data availability:
 
